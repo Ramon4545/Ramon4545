@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Ramon!
+# 👋 Olá, eu sou o Ramon
 
 💻 **Web Developer**  
 
