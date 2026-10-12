@@ -1,7 +1,9 @@
 # 👋 Olá, eu sou o Ramon!
 
 💻 **Web Developer**  
-🚀 Atualmente estudando, js e node.js  
+
+🎓 Estudante de Técnico em Informática
+🚀 Desenvolvendo projetos e aprimorando minhas habilidades em programação
 🎯 Focado em evolução constante e na construção de projetos
 
 ---
