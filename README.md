@@ -3,7 +3,9 @@
 💻 **Web Developer**  
 
 🎓 Estudante de Técnico em Informática
+
 🚀 Desenvolvendo projetos e aprimorando minhas habilidades em programação
+
 🎯 Focado em evolução constante e na construção de projetos
 
 ---
